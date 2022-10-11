@@ -1,0 +1,38 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.app{
+display: flex;
+flex-direction: column;
+width: 100%;
+background-color: black;
+height: 200px;
+}
+.user{
+    width: 50%;
+    margin-left: 208px;
+    height: 250px;
+    background-color: black;
+
+}
+.img{
+width: 50%;
+position: 0;
+margin-top: -250px;
+height: 50px;
+} 
+.FullName{
+background-color:red;
+height:50;
+font-weight:50;
+
+}
+.adress{
+background-color: aqua;
+height:50;
+width:50;
+}
+
